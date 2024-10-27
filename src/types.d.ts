@@ -4,6 +4,12 @@ declare global {
   }
 }
 
+export type OldUsersType = {
+  pages: {
+    users: User[];
+  }[] | undefined;
+};
+
 export interface ApiResults {
   results: User[];
   info:    Info;
