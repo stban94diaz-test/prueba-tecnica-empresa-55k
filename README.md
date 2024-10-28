@@ -18,3 +18,5 @@ Los pasos a seguir:
 - [x] Sort by clicking on the column header.
 
 ## Based on the example [Midu prueba tecnica empresa 55k](https://github.com/midudev/aprendiendo-react/tree/master/projects/11-typescript-prueba-tecnica)
+
+### [Midu prueba tecnica empresa 55k LINK YOUTUBE 2](https://www.youtube.com/watch?v=WKfVjQUa6nE&ab_channel=midulive)
